@@ -15,7 +15,6 @@ class App extends Component {
   switchNameHandler = () => {
     console.log('Was clicked!'); 
   }
-
   render() {
     return (
       <div className="App">
